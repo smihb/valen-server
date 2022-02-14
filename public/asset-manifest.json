@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7d9ca2e7.chunk.css",
-    "main.js": "/static/js/main.305a3aae.chunk.js",
-    "main.js.map": "/static/js/main.305a3aae.chunk.js.map",
+    "main.js": "/static/js/main.35f740c2.chunk.js",
+    "main.js.map": "/static/js/main.35f740c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.23318c12.js",
     "runtime-main.js.map": "/static/js/runtime-main.23318c12.js.map",
     "static/js/2.c9d7b75d.chunk.js": "/static/js/2.c9d7b75d.chunk.js",
@@ -14,8 +14,8 @@
     "static/media/Header.8aac18d7.webp": "/static/media/Header.8aac18d7.webp",
     "static/media/album.5525c241.webp": "/static/media/album.5525c241.webp",
     "static/media/bgW.a957a8ee.webp": "/static/media/bgW.a957a8ee.webp",
-    "static/media/bono1.8eefd463.jpeg": "/static/media/bono1.8eefd463.jpeg",
-    "static/media/cuarteto.3d289a6d.webp": "/static/media/cuarteto.3d289a6d.webp",
+    "static/media/bono1.095a7238.webp": "/static/media/bono1.095a7238.webp",
+    "static/media/cuarteto.794c2334.webp": "/static/media/cuarteto.794c2334.webp",
     "static/media/eighthT.663ad613.webp": "/static/media/eighthT.663ad613.webp",
     "static/media/eleventhBg.b0b3ce0f.webp": "/static/media/eleventhBg.b0b3ce0f.webp",
     "static/media/eleventhI.18cbd001.webp": "/static/media/eleventhI.18cbd001.webp",
@@ -58,13 +58,13 @@
     "static/media/tenthT.931cb74a.webp": "/static/media/tenthT.931cb74a.webp",
     "static/media/thirdI.4a4b815a.webp": "/static/media/thirdI.4a4b815a.webp",
     "static/media/thirdT.f97ec6db.webp": "/static/media/thirdT.f97ec6db.webp",
-    "static/media/valentina.f125677d.webp": "/static/media/valentina.f125677d.webp",
+    "static/media/valentina.668a43d8.webp": "/static/media/valentina.668a43d8.webp",
     "static/media/ws-icon.0796dbf5.webp": "/static/media/ws-icon.0796dbf5.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.23318c12.js",
     "static/js/2.c9d7b75d.chunk.js",
     "static/css/main.7d9ca2e7.chunk.css",
-    "static/js/main.305a3aae.chunk.js"
+    "static/js/main.35f740c2.chunk.js"
   ]
 }
