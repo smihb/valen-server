@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7d9ca2e7.chunk.css",
-    "main.js": "/static/js/main.d041e42a.chunk.js",
-    "main.js.map": "/static/js/main.d041e42a.chunk.js.map",
+    "main.js": "/static/js/main.16d4fc4a.chunk.js",
+    "main.js.map": "/static/js/main.16d4fc4a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.23318c12.js",
     "runtime-main.js.map": "/static/js/runtime-main.23318c12.js.map",
     "static/js/2.84b72c64.chunk.js": "/static/js/2.84b72c64.chunk.js",
@@ -15,6 +15,9 @@
     "static/media/album.5525c241.webp": "/static/media/album.5525c241.webp",
     "static/media/bgW.a957a8ee.webp": "/static/media/bgW.a957a8ee.webp",
     "static/media/bono1.095a7238.webp": "/static/media/bono1.095a7238.webp",
+    "static/media/bono3.97e0c7a3.jpeg": "/static/media/bono3.97e0c7a3.jpeg",
+    "static/media/bono4.49f96dd2.jpeg": "/static/media/bono4.49f96dd2.jpeg",
+    "static/media/bonoescuela.fffd09bc.png": "/static/media/bonoescuela.fffd09bc.png",
     "static/media/cuarteto.794c2334.webp": "/static/media/cuarteto.794c2334.webp",
     "static/media/eighthT.663ad613.webp": "/static/media/eighthT.663ad613.webp",
     "static/media/eleventhBg.b0b3ce0f.webp": "/static/media/eleventhBg.b0b3ce0f.webp",
@@ -35,9 +38,6 @@
     "static/media/main-BgSmall.5ac35914.webp": "/static/media/main-BgSmall.5ac35914.webp",
     "static/media/mainBg-medium.01b5711b.webp": "/static/media/mainBg-medium.01b5711b.webp",
     "static/media/mainTitle.68b80e6d.webp": "/static/media/mainTitle.68b80e6d.webp",
-    "static/media/ninethB1.2f72d3fa.webp": "/static/media/ninethB1.2f72d3fa.webp",
-    "static/media/ninethB2.35341ff8.webp": "/static/media/ninethB2.35341ff8.webp",
-    "static/media/ninethB3.a4a5efc1.webp": "/static/media/ninethB3.a4a5efc1.webp",
     "static/media/piano.8e9aa0be.webp": "/static/media/piano.8e9aa0be.webp",
     "static/media/secondBg.34096eb5.webp": "/static/media/secondBg.34096eb5.webp",
     "static/media/secondI.4a772165.webp": "/static/media/secondI.4a772165.webp",
@@ -65,6 +65,6 @@
     "static/js/runtime-main.23318c12.js",
     "static/js/2.84b72c64.chunk.js",
     "static/css/main.7d9ca2e7.chunk.css",
-    "static/js/main.d041e42a.chunk.js"
+    "static/js/main.16d4fc4a.chunk.js"
   ]
 }
